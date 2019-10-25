@@ -149,4 +149,5 @@ public class Grille {
             }
         }
     }
+    String valeur; 
 }
